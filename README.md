@@ -5,7 +5,7 @@ Lab 01 : Redux 적용 예제
 	1. 구현목적 : Redux 개념을 알고 어플리케이션에 적용하기  
 
 	2. 요구사항 :
-		1.
+		1. react-redux 없이 Redux 적용, 카운트 1증가 로직처리하기
 
 	3. 개발환경 : React.js, jshint, atom, webpack, webpack-dev-server 등 구성
 		1. 웹서버(static) 설치 : sudo npm install -g webpack webpack-dev-server webpack-cli
